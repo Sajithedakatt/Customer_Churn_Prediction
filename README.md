@@ -4,6 +4,8 @@
 
 This project focuses on developing a robust predictive model to accurately predict customer churn in subscription-based e-commerce platforms, utilising a diverse dataset of 5,630 customers. It examines various features, including customer and warehouse demographics, customer engagement metrics like HourSpendOnApp and NumberofDeviceRegistered, transaction histories such as PreferredPaymentMode and CouponUsed, complaints and satisfaction scores. Furthermore, the project aims to provide actionable insights for proactive retention strategies and decision-making by identifying and evaluating the key drivers of churn and retention. 
 
+![Alt text](Customer_Churn.png)
+
 ## Source of Data
 
 The primary dataset used in the project belongs to a leading online e-commerce company and is obtained from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction). This dataset provides a comprehensive view of the historical data on how the customers have interacted with the subscription service.  It captures critical variables, including demographic information, transaction history, engagement metrics, and customer satisfaction scores, which are essential for predictive customer churn analysis modelling. 
