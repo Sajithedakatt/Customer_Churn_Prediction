@@ -1,4 +1,4 @@
-# ECommerce Customer Churn Prediction
+# Ecommerce Customer Churn Prediction
 
 ## Overview
 
